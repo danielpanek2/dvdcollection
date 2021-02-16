@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.Form1.resources
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.Properties.Resources.resources
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\bin\Debug\dvdcollection.exe.config
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\bin\Debug\dvdcollection.exe
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\bin\Debug\dvdcollection.pdb
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.exe
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.pdb
+C:\Users\Admin\source\repos\dvdcollection\dvdcollection\obj\Debug\dvdcollection.MovieInfo.resources
